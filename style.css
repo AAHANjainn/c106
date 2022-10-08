@@ -1,0 +1,23 @@
+#heading{
+    background-color: gray;
+    margin-top: -20px;
+    padding:10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow:2px 2px steelblue;
+}
+
+body{
+    background-color:coral;
+}
+
+#footer{
+    background-color: bisque;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    height:auto;
+    line-height:2;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
